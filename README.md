@@ -1,4 +1,4 @@
-<h1 align="center">RiddlesWorld</h1>
+<h1 align="center">CryptoHunter</h1>
 <div align="center">  
 <a href="https://github.com/clubgamma/CryptoHunter/stargazers"><img src="https://img.shields.io/github/stars/clubgamma/CryptoHunter?style=flat"/></a>
 <a href="https://github.com/clubgamma/CryptoHunter/network/members"><img src="https://img.shields.io/github/forks/clubgamma/CryptoHunter?style=flat"/></a>
@@ -60,6 +60,6 @@ CryptoHunter is a WebApp to keep track of crypto currencies. It is a very handy 
 
 ![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
-<a href="https://github.com/clubgamma/RiddlesWorld/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
+<a href="https://github.com/clubgamma/CryptoHunter/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
 <br>
 </div>
